@@ -32,7 +32,7 @@ Bu projenin çalıştırılması için aşağıdaki yazılımlara ihtiyaç vard�
 
 - Bash: Betik ortamı
 - Zenity: Arayüz aracıdır (Eğer sisteminizde yüklü değilse, aşağıdaki komutla yükleyebilirsiniz)
-  
-  ```bash
-  sudo apt-get install zenity
-Şevval Nur Öksüz - Bilgisayar Mühendisliği Öğrencisi
+
+
+- Şevval Nur Öksüz - Bilgisayar Mühendisliği Öğrencisi
+- ödevimi anlattığım video bağlantısı : https://youtu.be/N3S0XE-xwDs
